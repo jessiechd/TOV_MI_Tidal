@@ -1,5 +1,4 @@
-# TOV_MI_Tidal
-# Anisotropic CGC Dark Stars in Rastall Gravity
+# TOV_MI_Tidal: Anisotropic CGC Dark Stars in Rastall Gravity
 
 This repository contains programs that analyze the following compact star model:
 - **EoS**: Simplified general Chaplygin dark star (input parameters A & B)
